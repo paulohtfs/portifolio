@@ -1,3 +1,10 @@
 title: "Paulo's Portifolio"
 email: "paulohtfs@gmail.com"
 description: "First time building a photography portifolio for my work"
+
+sass:
+  style: compact
+
+defaults:
+  - scope:
+    path: "assets/img"
